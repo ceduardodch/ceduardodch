@@ -1,11 +1,11 @@
 <h1 align="center">Carlos Diaz</h1>
 
 <p align="center">
-  <strong>Consultor en IA Aplicada, Arquitectura de Datos y Automatizacion</strong>
+  <strong>Applied AI, Data Architecture, and Automation Consultant</strong>
 </p>
 
 <p align="center">
-  Founder & CEO, FractalSoft · 10+ anos de experiencia · 30+ proyectos entregados
+  Founder & CEO, FractalSoft · 10+ years of experience · 30+ projects delivered
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   ·
   <a href="https://github.com/ceduardodch">GitHub</a>
   ·
-  <a href="https://github.com/ceduardodch?tab=repositories">Repositorios</a>
+  <a href="https://github.com/ceduardodch?tab=repositories">Repositories</a>
 </p>
 
 <p align="center">
@@ -26,48 +26,49 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
-Ayudo a organizaciones a convertir datos complejos, procesos manuales y operaciones criticas en sistemas confiables, auditables y listos para escalar. Trabajo en la interseccion de IA aplicada, arquitectura de datos, automatizacion y producto digital.
+I help organizations turn complex data, manual processes, and critical operations into reliable, auditable, and scalable systems. My work sits at the intersection of applied AI, data architecture, automation, and digital product delivery.
 
-He liderado iniciativas para organismos multilaterales, banca, sector publico y startups tecnicas en Ecuador y Estados Unidos, con foco en procurement intelligence, ETL, scoring de riesgo, analitica operativa y agentes LLM.
+I have led initiatives for multilateral organizations, financial institutions, public-sector teams, and technology startups across Ecuador and the United States, with a strong focus on procurement intelligence, ETL, risk scoring, operational analytics, and LLM-based workflows.
 
-## Lo que hago para clientes
+## What I Do For Clients
 
-- Diseno e implementacion de soluciones de IA aplicada para analisis documental, clasificacion, scoring y automatizacion de decisiones.
-- Arquitectura de datos y pipelines ETL para entornos con alta trazabilidad, volumen y criticidad operativa.
-- Plataformas web y sistemas internos para operaciones, compliance, procurement y visibilidad ejecutiva.
-- Modernizacion de procesos manuales mediante scraping, OCR, APIs, cloud y flujos automatizados.
+- Design and implementation of applied AI solutions for document analysis, classification, scoring, and workflow automation.
+- Data architecture and ETL pipelines for high-traceability, high-volume, and operationally critical environments.
+- Web platforms and internal systems for operations, compliance, procurement, and executive visibility.
+- Modernization of manual processes using scraping, OCR, APIs, cloud infrastructure, and automated decision flows.
 
-## Experiencia seleccionada
+## Selected Experience
 
-- **GIZ + USFQ + SERCOP**: direccion tecnica y de producto en el unico proyecto en Ecuador certificado con estandar OCDS e indices automatizados de riesgo en contratacion publica.
-- **Aura Intelligenz (USA)**: arquitectura de un MVP GovTech para analisis de oportunidades contractuales con OpenAI, Anthropic, LangChain, FastAPI, React y AWS.
-- **Banco Bolivariano**: ETL bancario y data pipeline cloud-native sobre AWS para procesos financieros criticos con alta disponibilidad y trazabilidad.
-- **FractalSoft / ecosistema `sky-*`**: construccion de plataformas B2B para franquicias, hoteleria, operaciones y automatizacion de negocio.
+- **GIZ + USFQ + SERCOP**: technical and product leadership for Ecuador's only OCDS-certified project with automated procurement risk indicators.
+- **Aura Intelligenz (USA)**: architecture of a GovTech MVP for contract opportunity analysis using OpenAI, Anthropic, LangChain, FastAPI, React, and AWS.
+- **Banco Bolivariano**: AWS-based ETL and cloud-native data pipelines for financially critical processes requiring high availability and full traceability.
+- **FractalSoft and private client systems**: B2B platforms for franchise operations, hospitality, internal operations, and business automation.
 
-## Sectores y clientes
+## Sectors and Clients
 
 `GIZ` `USFQ` `SERCOP` `Banco Bolivariano` `Equifax Ecuador` `ONUDI / PNUD` `Aura Intelligenz` `Universidad Andina` `EDIMCA`
 
-## Enfoques donde aporto mas valor
+## Where I Add The Most Value
 
-- IA y LLMs para procesamiento de documentos, oportunidades, contratos y reportes.
-- ETL, scraping y normalizacion de datos para procurement, inteligencia comercial y analitica.
-- Arquitectura backend y cloud para sistemas regulados, auditables y orientados a operacion.
-- Productos B2B e internal tools que pasan de MVP a produccion con estructura real.
+- AI and LLM workflows for documents, opportunities, contracts, and reporting.
+- ETL, scraping, and data normalization for procurement intelligence, commercial intelligence, and analytics.
+- Backend and cloud architecture for regulated, auditable, and operations-first systems.
+- B2B products and internal tools that move from MVP to production with real structure and maintainability.
 
-## Trabajo publico seleccionado
+## Public Work
 
-- [sgc-datos-privacy-hub](https://github.com/ceduardodch/sgc-datos-privacy-hub): privacidad de datos, cumplimiento y evidencia operativa.
-- [sky-franquicia](https://github.com/ceduardodch/sky-franquicia): plataforma para operacion multi-negocio y franquicias.
-- [sky-hotel](https://github.com/ceduardodch/sky-hotel): software para operacion hotelera dentro del ecosistema `sky-*`.
-- [sky-asadero](https://github.com/ceduardodch/sky-asadero): producto aterrizado desde una operacion real de negocio.
-- [SOCE_web_crawler](https://github.com/ceduardodch/SOCE_web_crawler): crawler y pipeline para datos de contratacion publica.
+- [sgc-datos-privacy-hub](https://github.com/ceduardodch/sgc-datos-privacy-hub): open-source privacy, compliance, and operational evidence platform.
+- [onu2024](https://github.com/ceduardodch/onu2024): frontend work for a public-sector digital platform.
+- [backendOnu](https://github.com/ceduardodch/backendOnu): backend services for a public-sector operations platform.
+- [quality-indicator](https://github.com/ceduardodch/quality-indicator): reporting and indicator platform for operational visibility.
 
-## Stack principal
+Most of my strongest delivery work is private, client-owned, or institutional and therefore not fully public on GitHub.
+
+## Core Stack
 
 `Python` `TypeScript` `FastAPI` `Django` `Node.js` `React` `PostgreSQL` `SQL Server` `Redis` `Docker` `AWS` `Selenium` `OpenCV` `Tesseract OCR` `LangChain` `OpenAI` `Anthropic`
 
 <p align="center">
-  Si estas construyendo una iniciativa de IA, datos o automatizacion para una operacion critica, puedes escribirme a
+  If you are building an AI, data, or automation initiative for a critical operation, feel free to reach out at
   <a href="mailto:carlos.diaz@fractalsoft.io">carlos.diaz@fractalsoft.io</a>.
 </p>
