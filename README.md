@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Fundador & CEO de FractalSoft · 10+ anos de experiencia · 30+ proyectos entregados
+  Founder & CEO, FractalSoft · 10+ anos de experiencia · 30+ proyectos entregados
 </p>
 
 <p align="center">
@@ -19,64 +19,55 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LLM_Agents-111827?style=flat-square" alt="LLM Agents" />
-  <img src="https://img.shields.io/badge/ETL_%26_Scraping-0F766E?style=flat-square" alt="ETL and Scraping" />
+  <img src="https://img.shields.io/badge/Applied_AI-111827?style=flat-square" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/Data_Architecture-0F766E?style=flat-square" alt="Data Architecture" />
   <img src="https://img.shields.io/badge/GovTech-1D4ED8?style=flat-square" alt="GovTech" />
+  <img src="https://img.shields.io/badge/FinTech-7C3AED?style=flat-square" alt="FinTech" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
-Ingeniero de software desde Ecuador, enfocado en construir sistemas que operan con datos criticos y generan impacto real. He liderado proyectos de IA aplicada, data engineering, automatizacion y analitica para organismos multilaterales, banca, sector publico y startups tecnicas en Ecuador y Estados Unidos.
+Ayudo a organizaciones a convertir datos complejos, procesos manuales y operaciones criticas en sistemas confiables, auditables y listos para escalar. Trabajo en la interseccion de IA aplicada, arquitectura de datos, automatizacion y producto digital.
 
-Mi trabajo mezcla producto, backend, scraping, ETL, cloud y agentes LLM para resolver problemas de operacion, compliance, inteligencia comercial y contratacion publica.
+He liderado iniciativas para organismos multilaterales, banca, sector publico y startups tecnicas en Ecuador y Estados Unidos, con foco en procurement intelligence, ETL, scoring de riesgo, analitica operativa y agentes LLM.
 
-## Resumen ejecutivo
+## Lo que hago para clientes
 
-- Project Manager y Lead Engineer en proyectos para GIZ, USFQ y SERCOP.
-- Fundador de FractalSoft con foco en software B2B, IA aplicada y arquitectura de datos.
-- Experiencia en pipelines ETL, scoring de riesgo, crawlers resilientes, OCR, proxies rotativos y procesamiento de documentos con LLM.
-- Desarrollo de plataformas para franquicias, hoteleria, privacidad de datos, portales institucionales y procesos financieros criticos.
+- Diseno e implementacion de soluciones de IA aplicada para analisis documental, clasificacion, scoring y automatizacion de decisiones.
+- Arquitectura de datos y pipelines ETL para entornos con alta trazabilidad, volumen y criticidad operativa.
+- Plataformas web y sistemas internos para operaciones, compliance, procurement y visibilidad ejecutiva.
+- Modernizacion de procesos manuales mediante scraping, OCR, APIs, cloud y flujos automatizados.
 
-## Impacto que he construido
+## Experiencia seleccionada
 
-- Proyecto OCDS certificado en Ecuador con indices automatizados de riesgo en contratacion publica.
-- MVP GovTech en EE.UU. para analisis de oportunidades contractuales con OpenAI, Anthropic y LangChain.
-- ETL bancario sobre AWS con Lambda, RDS PostgreSQL, S3 e infraestructura como codigo para procesos de alta disponibilidad.
-- Plataformas multi-app para operacion de negocios, compliance y automatizacion interna.
+- **GIZ + USFQ + SERCOP**: direccion tecnica y de producto en el unico proyecto en Ecuador certificado con estandar OCDS e indices automatizados de riesgo en contratacion publica.
+- **Aura Intelligenz (USA)**: arquitectura de un MVP GovTech para analisis de oportunidades contractuales con OpenAI, Anthropic, LangChain, FastAPI, React y AWS.
+- **Banco Bolivariano**: ETL bancario y data pipeline cloud-native sobre AWS para procesos financieros criticos con alta disponibilidad y trazabilidad.
+- **FractalSoft / ecosistema `sky-*`**: construccion de plataformas B2B para franquicias, hoteleria, operaciones y automatizacion de negocio.
 
-## En que estoy enfocado
-
-- Agentes IA, clasificacion, scoring y extraccion estructurada desde documentos.
-- Automatizacion y scraping para reducir trabajo manual y mejorar visibilidad operativa.
-- Plataformas de negocio como `sky-franquicia`, `sky-hotel` y `sky-asadero`.
-- Herramientas privacy-first y de cumplimiento como `sgc-datos-privacy-hub`.
-- Arquitecturas practicas: codigo mantenible, despliegues claros y componentes reutilizables.
-
-## Proyectos destacados
-
-- [sgc-datos-privacy-hub](https://github.com/ceduardodch/sgc-datos-privacy-hub): hub open source para privacidad de datos y cumplimiento, con policy engine, tokenizacion, ARCO+, incidentes y evidencia.
-- [sky-franquicia](https://github.com/ceduardodch/sky-franquicia): plataforma orientada a operaciones de franquicia y gestion multi-negocio.
-- [sky-hotel](https://github.com/ceduardodch/sky-hotel): producto para operacion hotelera dentro del ecosistema `sky-*`.
-- [sky-asadero](https://github.com/ceduardodch/sky-asadero): app de negocio extraida desde un sistema mayor para aterrizar procesos reales en software usable.
-- [SOCE_web_crawler](https://github.com/ceduardodch/SOCE_web_crawler): crawler y pipeline en Python para extraccion y procesamiento de informacion.
-
-## Clientes y sectores
+## Sectores y clientes
 
 `GIZ` `USFQ` `SERCOP` `Banco Bolivariano` `Equifax Ecuador` `ONUDI / PNUD` `Aura Intelligenz` `Universidad Andina` `EDIMCA`
 
-## Stack que mas uso
+## Enfoques donde aporto mas valor
 
-`Python` `TypeScript` `FastAPI` `Django` `Node.js` `React` `PostgreSQL` `SQL Server` `MongoDB` `Redis` `Docker` `AWS` `Selenium` `OpenCV` `Tesseract OCR` `LangChain` `OpenAI` `Anthropic` `GitHub Actions`
+- IA y LLMs para procesamiento de documentos, oportunidades, contratos y reportes.
+- ETL, scraping y normalizacion de datos para procurement, inteligencia comercial y analitica.
+- Arquitectura backend y cloud para sistemas regulados, auditables y orientados a operacion.
+- Productos B2B e internal tools que pasan de MVP a produccion con estructura real.
 
-## Lo que me interesa construir
+## Trabajo publico seleccionado
 
-- Productos B2B con impacto operativo real.
-- Sistemas con datos trazables, auditables y listos para produccion.
-- Automatizaciones que conviertan procesos manuales en flujos confiables.
-- Software para GovTech, FinTech, compliance, procurement intelligence y operaciones internas.
+- [sgc-datos-privacy-hub](https://github.com/ceduardodch/sgc-datos-privacy-hub): privacidad de datos, cumplimiento y evidencia operativa.
+- [sky-franquicia](https://github.com/ceduardodch/sky-franquicia): plataforma para operacion multi-negocio y franquicias.
+- [sky-hotel](https://github.com/ceduardodch/sky-hotel): software para operacion hotelera dentro del ecosistema `sky-*`.
+- [sky-asadero](https://github.com/ceduardodch/sky-asadero): producto aterrizado desde una operacion real de negocio.
+- [SOCE_web_crawler](https://github.com/ceduardodch/SOCE_web_crawler): crawler y pipeline para datos de contratacion publica.
+
+## Stack principal
+
+`Python` `TypeScript` `FastAPI` `Django` `Node.js` `React` `PostgreSQL` `SQL Server` `Redis` `Docker` `AWS` `Selenium` `OpenCV` `Tesseract OCR` `LangChain` `OpenAI` `Anthropic`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ceduardodch&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats de Carlos Diaz" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceduardodch&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Lenguajes mas usados por Carlos Diaz" />
+  Si estas construyendo una iniciativa de IA, datos o automatizacion para una operacion critica, puedes escribirme a
+  <a href="mailto:carlos.diaz@fractalsoft.io">carlos.diaz@fractalsoft.io</a>.
 </p>
